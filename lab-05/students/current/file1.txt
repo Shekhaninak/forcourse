@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in {1..100};
+do
+echo "qwe 23 qwe" >> file$i.txt
+done
+qwe 23 qwe
